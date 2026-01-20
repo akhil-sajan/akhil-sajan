@@ -1,5 +1,9 @@
 # 💫 About Me:
-Just a developer who likes building things, breaking them, and learning along the way.
+Hi!
+
+I'm Akhil Sajan.
+Pursuing Msc Global Software Development.
+Looking for Working Student opportunities in Germany.
 
 
 # 💻 Tech Stack:
