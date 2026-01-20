@@ -1,9 +1,9 @@
 # 💫 About Me:
 Hi!
 
-I'm Akhil Sajan.
-Pursuing Msc Global Software Development.
-Looking for Working Student opportunities in Germany.
+I'm Akhil Sajan.</br>
+Pursuing Msc Global Software Development.</br>
+Looking for Working Student opportunities in Germany.</br>
 
 
 # 💻 Tech Stack:
