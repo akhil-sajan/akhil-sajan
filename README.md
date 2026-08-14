@@ -1,16 +1,55 @@
-# 💫 About Me:
-Hi!
+<h1 align="center">Hi 👋, I'm Akhil Sajan</h1>
+<h3 align="center">Software Engineer | M.Sc. Global Software Development @ Hochschule Fulda</h3>
 
-I'm Akhil Sajan.</br>
-Pursuing Msc Global Software Development.</br>
-Looking for Working Student opportunities in Germany.</br>
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
+---
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akhil-sajan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
-![](https://nirzak-streak-stats.vercel.app/?user=akhil-sajan&theme=dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-sajan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🚀 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🎓 Currently pursuing an M.Sc. in **Global Software Development** at Hochschule Fulda, Germany
+- 💼 3 years of professional experience as a **Software Engineer** at Wipro Technologies
+- 🌍 Based in Germany | Speak English & German
+- 🤝 Open to **Werkstudent / internship** opportunities in software development
+- ⚡ Daily driver of AI coding assistants (Claude, Cursor) to move faster and write cleaner code
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,docker" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&hide_border=true"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/YOUR-USERNAME/PROJECT-1">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=PROJECT-1&theme=default&hide_border=true"/>
+  </a>
+  <a href="https://github.com/YOUR-USERNAME/PROJECT-2">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=PROJECT-2&theme=default&hide_border=true"/>
+  </a>
+</p>
+
+---
+
+<p align="center"><i>Thanks for stopping by! ⭐️ from a project you find interesting is always appreciated.</i></p>
