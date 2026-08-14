@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akhil Sajan</h1>
 <h3 align="center">Software Engineer | M.Sc. Global Software Development @ Hochschule Fulda</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/akhilasajan/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  &nbsp;
-  <a href="mailto:YOUR-EMAIL">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
-</p>
 
 ---
 
