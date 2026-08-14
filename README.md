@@ -31,17 +31,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akhil-sajan&show_icons=true&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-sajan&layout=compact&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-sajan&hide_border=true"/>
-</p>
-
----
-
 <p align="center"><i>Thanks for stopping by! ⭐️ from a project you find interesting is always appreciated.</i></p>
