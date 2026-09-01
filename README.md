@@ -19,10 +19,10 @@
   <img src="https://skillicons.dev/icons?i=python,aws,mysql,postgresql,git,docker" />
 </p>
 
-**Data Engineering & Cloud:** AWS (S3, IAM, RDS, Kinesis) · Databricks · Unity Catalog · Delta Lake · PySpark · CDC · Medallion Architecture
-**ML & AI:** MLflow · Computer Vision · Feature Engineering · Hyperparameter Tuning · LLM/Claude API
-**Databases & Languages:** Python · SQL · SQL Server · Oracle · PostgreSQL · MySQL
-**Tools:** Git · Docker · CLI · Jira · Agile/Scrum
+**Data Engineering & Cloud:** AWS (S3, IAM, RDS, Kinesis) · Databricks · Unity Catalog · Delta Lake · PySpark · CDC · Medallion Architecture<br>
+**ML & AI:** MLflow · Computer Vision · Feature Engineering · Hyperparameter Tuning · LLM/Claude API<br>
+**Databases & Languages:** Python · SQL · SQL Server · Oracle · PostgreSQL · MySQL<br>
+**Tools:** Git · Docker · CLI · Jira · Agile/Scrum<br>
 
 ---
 
