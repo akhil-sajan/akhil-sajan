@@ -30,13 +30,6 @@ Full stack marketplace: 4 backend services (Go, Python/FastAPI) behind a Go BFF 
   <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,go,python,aws,mongodb,mysql,postgresql,docker,git" />
 </p>
 
-**Languages:** JavaScript (ES6+) · TypeScript · Python · Go · SQL<br>
-**Frontend:** React.js · Vue.js<br>
-**Backend:** Node.js · Express.js · FastAPI<br>
-**AI & LLM:** Anthropic Claude API · AI-Assisted Development (Claude, Cursor) · Async/Background Task Processing<br>
-**Architecture:** REST APIs · OAuth2/OIDC · WebSockets/Real-Time Messaging<br>
-**Databases & Cloud:** PostgreSQL · MySQL · MongoDB · AWS (S3, IAM, RDS, Kinesis)<br>
-**Tools:** Docker · Git · Jira · Agile/Scrum
 
 ---
 
