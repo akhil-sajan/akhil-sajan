@@ -4,13 +4,13 @@
 ---
 
 ### 🚀 About Me
-🎓 Currently pursuing an M.Sc. in **Global Software Development** at Hochschule Fulda, Germany
-💼 2.5 years of professional experience as a **Software Engineer** at Wipro Technologies 
-🛠️ Building full stack applications end-to-end
-🤖 Recent focus on AI-integrated products — LLM API integration, async task pipelines, and AI-assisted development workflows
-🌍 Based in Germany | Speak English (C1) & German (B1)
-🤝 Open to **Werkstudent / internship** opportunities in Software Engineering
-⚡ Daily driver of AI coding assistants (Claude Code) to move faster and write cleaner code
+🎓 Currently pursuing an M.Sc. in **Global Software Development** at Hochschule Fulda, Germany<br>
+💼 2.5 years of professional experience as a **Software Engineer** at Wipro Technologies <br>
+🛠️ Building full stack applications end-to-end<br>
+🤖 Recent focus on AI-integrated products — LLM API integration, async task pipelines, and AI-assisted development workflows<br>
+🌍 Based in Germany | Speak English (C1) & German (B1)<br>
+🤝 Open to **Werkstudent / internship** opportunities in Software Engineering<br>
+⚡ Daily driver of AI coding assistants (Claude Code) to move faster and write cleaner code<br>
 
 ---
 
