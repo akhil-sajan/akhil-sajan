@@ -16,11 +16,13 @@
 
 ### 🧱 Featured Projects
 
+**Marketplace Platform** — Microservices & Microfrontend Architecture (Team Project)
+Full stack marketplace: 4 backend services (Go, Python/FastAPI) behind a Go BFF gateway, and 4 microfrontends (React, Vue, Svelte). Owned the BFF gateway — OIDC/PKCE auth via Zitadel, Redis-backed sessions, CSRF protection, and a live WebSocket messaging pipeline.
+
 **ShortsMaker** — Full Stack AI Application
 Converts long-form YouTube videos into short-form vertical clips. FastAPI backend with an async background processing pipeline (download → transcript → AI highlight selection → render), Claude API integration for transcript analysis, and a React/TypeScript frontend with real-time job status polling.
 
-**Marketplace Platform** — Microservices & Microfrontend Architecture (Team Project)
-Full stack marketplace: 4 backend services (Go, Python/FastAPI) behind a Go BFF gateway, and 4 microfrontends (React, Vue, Svelte). Owned the BFF gateway — OIDC/PKCE auth via Zitadel, Redis-backed sessions, CSRF protection, and a live WebSocket messaging pipeline.
+
 
 ---
 
