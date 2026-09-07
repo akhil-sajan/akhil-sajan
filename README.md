@@ -5,13 +5,12 @@
 
 ### 🚀 About Me
 - 🎓 Currently pursuing an M.Sc. in **Global Software Development** at Hochschule Fulda, Germany
-- 💼 2.5 years of professional experience as a **Software Engineer** at Wipro Technologies — full stack development with JavaScript, TypeScript, Node.js, Express.js & React.js
-- 🛠️ Building full stack applications end-to-end: backend services, REST APIs, and modern frontends
+- 💼 2.5 years of professional experience as a **Software Engineer** at Wipro Technologies 
+- 🛠️ Building full stack applications end-to-end
 - 🤖 Recent focus on AI-integrated products — LLM API integration, async task pipelines, and AI-assisted development workflows
-- 🧩 Currently building a **microservices & microfrontend marketplace platform** — Go/Python backend services behind a Go BFF gateway, with React, Vue & Svelte microfrontends
 - 🌍 Based in Germany | Speak English (C1) & German (B1)
 - 🤝 Open to **Werkstudent / internship** opportunities in Software Engineering
-- ⚡ Daily driver of AI coding assistants (Claude, Cursor) to move faster and write cleaner code
+- ⚡ Daily driver of AI coding assistants (Claude Code) to move faster and write cleaner code
 
 ---
 
