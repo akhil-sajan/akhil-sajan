@@ -19,9 +19,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,aws,mysql,postgresql,git,docker" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-</p>
+
 
 
 ---
