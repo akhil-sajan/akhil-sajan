@@ -8,7 +8,7 @@
 💼 2.5 years of professional experience as a **Data / AI Engineer** at Wipro Technologies<br>
 ☁️ Building data pipelines and cloud-based data infrastructure, with hands-on experience developing and deploying ML models<br>
 🧠 Focus on data quality, reliability, and scalable architectures<br>
-🌍 Based in Germany | Speakx English (C1) & German (B1)<br>
+🌍 Based in Germany | Speaks English (C1) & German (B1)<br>
 🤝 Open to **Werkstudent / internship** opportunities in Data & AI Engineering<br>
 ⚡ Daily driver of AI coding assistants (Claude Code) to move faster and write cleaner code<br>
 
